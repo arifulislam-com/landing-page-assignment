@@ -1,0 +1,62 @@
+.navbar-brand img{
+    width: 20%;
+}
+.signIn{
+    background-color: green;
+    border-radius: 40%;
+}
+.signIn span{
+    color: white;
+}
+.headerImg img{
+    width: 100%;
+}
+.headerC{
+    background-color: rgb(228, 235, 228);
+}
+.container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.button{
+    color: white;
+    background-color: green;
+    border-radius: 30%;
+    border: none;
+}
+.ready{
+    color: red;
+}
+.container h1{
+    font-size: 60px;
+}
+.container h1 span{
+    color: green;
+}
+.features img{
+    width: 30%;
+    margin-bottom: 30px;
+}
+.card{
+    background-color: rgb(240, 238, 238);
+    border: none;
+}
+.card-footer{
+    border: none;
+    background-color: none;
+}
+.testimonial{
+    text-align: center;
+}
+.post{
+    max-width: 550px;
+    margin: 0 auto;
+}
+.fooher{
+    width: 100%;
+    margin-top: 80px;
+    color: rgb(241, 238, 238);
+    background-color: rgb(46, 45, 45);
+    margin-left: 100px;
+    float: right;
+}
